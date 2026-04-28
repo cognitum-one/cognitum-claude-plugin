@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cognitum": {
+      "type": "sse",
+      "url": "https://cognitum.one/mcpSse"
+    }
+  }
+}
