@@ -8,7 +8,7 @@
     "url": "https://cognitum.one"
   },
   "homepage": "https://cognitum.one",
-  "repository": "https://github.com/ruvnet/cognitum-claude-plugin",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
   "license": "Proprietary",
   "keywords": ["mcp", "cognitum", "seed", "iot", "edge", "device"]
 }

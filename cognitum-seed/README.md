@@ -78,6 +78,6 @@ All under base `https://169.254.42.1:8443/api/v1/` (or `http://169.254.42.1/api/
 
 ## Source
 
-`https://github.com/ruvnet/cognitum-claude-plugin/tree/main/cognitum-seed`
+`https://github.com/cognitum-one/cognitum-claude-plugin/tree/main/cognitum-seed`
 
 The cloud-side `cognitum-mcp` plugin (registers `https://cognitum.one/mcpSse`) is in the same repo's root.

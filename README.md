@@ -34,4 +34,4 @@ claude mcp add cognitum https://cognitum.one/mcpSse
 
 ## Source
 
-Source: https://github.com/ruvnet/newport/tree/main/claude-plugin/cognitum-mcp
+Source: https://github.com/cognitum-one/cognitum-claude-plugin
