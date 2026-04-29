@@ -1,0 +1,14 @@
+{
+  "name": "cognitum-seed",
+  "description": "Cognitum Seed device plugin — connect to a local Seed appliance at https://169.254.42.1:8443 (HTTPS) or http://169.254.42.1 (USB mode), invoke its 114 MCP tools, and run guided setup / pairing / OTA / thermal / sensor / vector-store flows from Claude Code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one",
+  "repository": "https://github.com/ruvnet/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": ["mcp", "cognitum", "seed", "iot", "edge", "device"]
+}
