@@ -1,0 +1,20 @@
+{
+  "name": "cog-gait-analysis",
+  "description": "Cognitum cog: Gait Analysis. Detects walking problems and scores fall risk",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/gait-analysis",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "health",
+    "health"
+  ]
+}

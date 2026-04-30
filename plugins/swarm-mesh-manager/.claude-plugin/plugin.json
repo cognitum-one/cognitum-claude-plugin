@@ -1,0 +1,19 @@
+{
+  "name": "cog-swarm-mesh-manager",
+  "description": "Cognitum cog: Swarm Mesh Manager. Find, connect, and monitor all seeds on your network",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/swarm-mesh-manager",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "swarm"
+  ]
+}

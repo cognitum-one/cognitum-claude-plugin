@@ -1,0 +1,19 @@
+{
+  "name": "cog-plant-growth",
+  "description": "Cognitum cog: Plant Growth. Tracks plant growth rate and day/night cycles",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/plant-growth",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "research"
+  ]
+}

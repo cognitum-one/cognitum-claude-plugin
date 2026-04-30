@@ -1,0 +1,20 @@
+{
+  "name": "cog-snore-monitor",
+  "description": "Cognitum cog: Snore Monitor. Periodic low-band energy tracker for sleep-quality / apnea-risk trending. Companion to sleep-apnea cog",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/snore-monitor",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "health",
+    "health"
+  ]
+}

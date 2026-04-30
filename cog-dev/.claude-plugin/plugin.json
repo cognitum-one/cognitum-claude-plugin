@@ -1,0 +1,49 @@
+{
+  "name": "@cognitum/cog-dev",
+  "version": "0.1.0",
+  "displayName": "Cognitum Cog Dev",
+  "description": "Slash commands, skills, and subagents for the Cognitum cog dev/test/deploy/ops loop. Wires a Claude Code session to a seed's /mcp endpoint so cogs can be authored against live device state.",
+  "license": "MIT",
+  "homepage": "https://github.com/cognitum-one/seed/blob/main/docs/seed/ADR-092-cognitum-framework-browser-mcp-claude-plugins.md",
+  "commands": [
+    "commands/cog-new.md",
+    "commands/cog-test.md",
+    "commands/cog-deploy.md",
+    "commands/cog-trace.md",
+    "commands/cog-config.md"
+  ],
+  "skills": [
+    "skills/seed-mcp-quickstart/SKILL.md",
+    "skills/cog-development/SKILL.md",
+    "skills/cog-testing/SKILL.md",
+    "skills/cog-deployment/SKILL.md",
+    "skills/cog-operations/SKILL.md"
+  ],
+  "agents": [
+    "agents/cog-architect.md",
+    "agents/cog-tester.md",
+    "agents/cog-deployer.md",
+    "agents/cog-ops.md"
+  ],
+  "mcp": {
+    "name": "cognitum-seed",
+    "description": "The seed's framework MCP surface (ADR-092). Tools cover cog management, sensor snapshots, RVF query, mesh status, identity. Resources expose the registry, witness chain head, ESP32 firmware metadata, per-cog manifests and recent logs.",
+    "connect": "mcp/connect.js"
+  },
+  "config": {
+    "seedUrl": {
+      "type": "string",
+      "description": "Base URL of the seed. Defaults to USB gadget address; override for WiFi seeds.",
+      "default": "http://169.254.42.1"
+    },
+    "bearerToken": {
+      "type": "string",
+      "description": "Pairing bearer token (only required for paired writes; reads are public on USB)."
+    },
+    "autoDiscover": {
+      "type": "boolean",
+      "description": "Probe USB / mDNS / configured WiFi IPs to find the seed automatically.",
+      "default": true
+    }
+  }
+}

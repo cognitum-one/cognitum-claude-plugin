@@ -1,0 +1,19 @@
+{
+  "name": "cog-perimeter-breach",
+  "description": "Cognitum cog: Perimeter Breach. Guards multiple zones and shows entry direction",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/perimeter-breach",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "security"
+  ]
+}

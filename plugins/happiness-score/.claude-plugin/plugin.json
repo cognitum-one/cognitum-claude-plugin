@@ -1,0 +1,19 @@
+{
+  "name": "cog-happiness-score",
+  "description": "Cognitum cog: Happiness Score. Estimates well-being from movement and mood signals",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/happiness-score",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "research"
+  ]
+}

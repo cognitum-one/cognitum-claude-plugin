@@ -1,0 +1,19 @@
+{
+  "name": "cog-ewc-lifelong",
+  "description": "Cognitum cog: EWC Lifelong. Learns new things without forgetting old lessons",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/ewc-lifelong",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "ai"
+  ]
+}

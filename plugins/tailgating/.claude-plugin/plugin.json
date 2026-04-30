@@ -1,0 +1,19 @@
+{
+  "name": "cog-tailgating",
+  "description": "Cognitum cog: Tailgating Detection. Catches when someone sneaks in behind a badge holder",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/tailgating",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "security"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cog-quantum-coherence",
+  "description": "Cognitum cog: Quantum Coherence. Quantum-inspired model for advanced signal states",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/quantum-coherence",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "developer"
+  ]
+}

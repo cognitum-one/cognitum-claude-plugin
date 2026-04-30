@@ -1,0 +1,19 @@
+{
+  "name": "cog-pattern-sequence",
+  "description": "Cognitum cog: Pattern Sequence. Detects daily routines and repeated habits",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/pattern-sequence",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "ai"
+  ]
+}
