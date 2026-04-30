@@ -1,0 +1,19 @@
+{
+  "name": "cog-forklift-proximity",
+  "description": "Cognitum cog: Forklift Proximity. Warns if a forklift gets too close to workers",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/forklift-proximity",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "industrial"
+  ]
+}

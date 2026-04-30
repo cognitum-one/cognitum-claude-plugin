@@ -1,0 +1,19 @@
+{
+  "name": "cog-swarm-distributed-store",
+  "description": "Cognitum cog: Distributed Vector Store. Spread data across seeds and search them all at once",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/swarm-distributed-store",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "swarm"
+  ]
+}

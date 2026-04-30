@@ -1,0 +1,19 @@
+{
+  "name": "cog-meta-adapt",
+  "description": "Cognitum cog: Meta Adapt. Automatically tunes itself for best performance",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/meta-adapt",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "ai"
+  ]
+}

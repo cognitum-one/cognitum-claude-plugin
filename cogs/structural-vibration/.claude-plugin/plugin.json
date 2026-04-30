@@ -1,0 +1,19 @@
+{
+  "name": "cog-structural-vibration",
+  "description": "Cognitum cog: Structural Vibration. Detects dangerous vibrations in buildings or machines",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/structural-vibration",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "industrial"
+  ]
+}

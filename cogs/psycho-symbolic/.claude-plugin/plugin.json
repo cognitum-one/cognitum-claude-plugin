@@ -1,0 +1,19 @@
+{
+  "name": "cog-psycho-symbolic",
+  "description": "Cognitum cog: Psycho-Symbolic. Reasons over knowledge graphs with multiple styles",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/psycho-symbolic",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "developer"
+  ]
+}

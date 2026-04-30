@@ -1,0 +1,19 @@
+{
+  "name": "cog-person-matching",
+  "description": "Cognitum cog: Person Matching. Tells apart multiple people in the same room",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/person-matching",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "signal"
+  ]
+}

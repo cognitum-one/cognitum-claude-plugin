@@ -1,0 +1,19 @@
+{
+  "name": "cog-gesture-language",
+  "description": "Cognitum cog: Gesture Language. Recognizes sign language gestures in real time",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/gesture-language",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "research"
+  ]
+}

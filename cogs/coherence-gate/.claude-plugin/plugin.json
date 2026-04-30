@@ -1,0 +1,19 @@
+{
+  "name": "cog-coherence-gate",
+  "description": "Cognitum cog: Coherence Gate. Filters out noisy signals and keeps clean ones",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/coherence-gate",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "signal"
+  ]
+}

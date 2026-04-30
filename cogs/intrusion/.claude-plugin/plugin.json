@@ -1,0 +1,19 @@
+{
+  "name": "cog-intrusion",
+  "description": "Cognitum cog: Intrusion Detection. Alerts when an unauthorized person enters a room",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/intrusion",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "security"
+  ]
+}

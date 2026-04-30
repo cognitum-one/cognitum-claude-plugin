@@ -1,0 +1,20 @@
+{
+  "name": "cog-fall-detect",
+  "description": "Cognitum cog: Fall Detection. Two-stage impact + stillness fall detector over ambient feature stream (ESP32 motion / mic). Optional ruview-mode for CSI-based pose reinforcement",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/fall-detect",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "health",
+    "health"
+  ]
+}

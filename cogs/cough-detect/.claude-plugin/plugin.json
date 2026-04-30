@@ -1,0 +1,20 @@
+{
+  "name": "cog-cough-detect",
+  "description": "Cognitum cog: Cough Detection. Acoustic transient + spectral cough detector with 30s cluster aggregation. Early-warning signal for respiratory illness",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/cough-detect",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "health",
+    "health"
+  ]
+}

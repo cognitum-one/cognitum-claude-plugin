@@ -1,0 +1,19 @@
+{
+  "name": "cog-music-conductor",
+  "description": "Cognitum cog: Music Conductor. Reads a conductor's gestures for tempo and dynamics",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/music-conductor",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "research"
+  ]
+}

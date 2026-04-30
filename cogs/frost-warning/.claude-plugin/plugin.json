@@ -1,0 +1,19 @@
+{
+  "name": "cog-frost-warning",
+  "description": "Cognitum cog: Frost Warning. Predicts frost 6 hours ahead via temperature trend + dewpoint-depression gate. Field/orchard agriculture",
+  "version": "1.0.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/frost-warning",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "building"
+  ]
+}

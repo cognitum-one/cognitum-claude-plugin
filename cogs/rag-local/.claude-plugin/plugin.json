@@ -1,0 +1,19 @@
+{
+  "name": "cog-rag-local",
+  "description": "Cognitum cog: Local RAG Engine. Search your documents using AI — runs on the seed",
+  "version": "1.2.0",
+  "author": {
+    "name": "Cognitum",
+    "email": "hello@cognitum.one",
+    "url": "https://cognitum.one"
+  },
+  "homepage": "https://cognitum.one/store/cogs/rag-local",
+  "repository": "https://github.com/cognitum-one/cognitum-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "cog",
+    "cognitum",
+    "seed",
+    "ai"
+  ]
+}
